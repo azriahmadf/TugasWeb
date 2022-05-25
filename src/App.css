@@ -1,0 +1,11 @@
+.App {
+  font-family:cursive;
+  color:black;
+  margin :auto;
+  width : 30%;
+  padding : 10%;
+}
+
+body {
+  background-color:teal;
+}
